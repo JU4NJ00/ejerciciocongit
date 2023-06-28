@@ -9,13 +9,12 @@ body {
     font-family: 'MuseoModerno', cursive;  
     background-color: #ffcac2;
 	
-
 }
 
 #relleno{
     width: 100%;
     height: 58px;
-    background-color: red;
+    background-color: blue;
 }
 
 
